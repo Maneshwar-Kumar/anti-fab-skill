@@ -1,6 +1,6 @@
 ---
 name: non-fabrication-skill
-description: "help claude be honest and halucinate less"
+description: "Source-discipline guardrail: no fabricated quotes or events, and every fact tagged fetched, derived or assumed. Use when producing research, analysis or consulting deliverables."
 ---
 
 Here's a guardrail block you can paste at the top of any prompt. It targets the specific failure modes from this session, not generic "be careful" language.
